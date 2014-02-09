@@ -1,0 +1,4 @@
+helloworld
+==========
+
+rails project 'helloworld'
